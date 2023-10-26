@@ -1,5 +1,12 @@
-# tokokita
+ikan
 ![alt text](https://github.com/muhammadsalmanfarrisi/H1D021088_SHIFT_E_ResponsiMobile/blob/master/Tampilan%20Aplikasi/Screenshot%202023-10-26%20231539.png?raw=true)
+![alt text](https://github.com/muhammadsalmanfarrisi/H1D021088_SHIFT_E_ResponsiMobile/blob/master/Tampilan%20Aplikasi/Screenshot%202023-10-26%20231629.png?raw=true)
+![alt text](https://github.com/muhammadsalmanfarrisi/H1D021088_SHIFT_E_ResponsiMobile/blob/master/Tampilan%20Aplikasi/Screenshot%202023-10-26%20231654.png?raw=true)
+![alt text](https://github.com/muhammadsalmanfarrisi/H1D021088_SHIFT_E_ResponsiMobile/blob/master/Tampilan%20Aplikasi/Screenshot%202023-10-26%20231710.png?raw=true)
+![alt text](https://github.com/muhammadsalmanfarrisi/H1D021088_SHIFT_E_ResponsiMobile/blob/master/Tampilan%20Aplikasi/Screenshot%202023-10-26%20231722.png?raw=true)
+![alt text](https://github.com/muhammadsalmanfarrisi/H1D021088_SHIFT_E_ResponsiMobile/blob/master/Tampilan%20Aplikasi/Screenshot%202023-10-26%20231730.png?raw=true)
+
+
 A new Flutter project.
 
 ## Getting Started
