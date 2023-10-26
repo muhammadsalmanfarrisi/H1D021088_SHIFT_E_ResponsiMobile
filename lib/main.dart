@@ -1,24 +1,29 @@
 import 'package:flutter/material.dart';
+import 'package:tokokita/helpers/user_info.dart';
 import 'package:tokokita/ui/login_page.dart';
-import 'package:tokokita/ui/produk_detail.dart';
-import 'package:tokokita/ui/produk_form.dart';
-import 'package:tokokita/ui/produk_page.dart';
-import 'package:tokokita/ui/registrasi_page.dart';
+import 'package:tokokita/ui/ikan_page.dart';
 
 void main() {
   runApp(const MyApp());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class MyApp extends StatefulWidget {
+  const MyApp({Key? key}) : super(key: key);
 
-  // This widget is the root of your application.
   @override
-  Widget build(BuildContext context) {
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+  Widget page = const CircularProgressIndicator();
+
+  @override
+ Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Toko Kita',
+      title: 'IKAN',
       debugShowCheckedModeBanner: false,
-      home: RegistrasiPage(),
+      home: const IkanPage(), // Mengarahkan langsung ke halaman IkanPage
     );
   }
 }
+//kalau mau ran ketik ini di terminal, flutter run -d chrome --web-browser-flag "--disable-web-security"
